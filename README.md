@@ -1,5 +1,5 @@
 # FCSN_labs
-Fundamentals of computer systems and networcs
+Computer systems and networks basics
 
 Variant 5
 
